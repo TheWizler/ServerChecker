@@ -1,0 +1,2 @@
+# ServerChecker
+Checks server status 
